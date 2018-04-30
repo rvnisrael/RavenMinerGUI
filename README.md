@@ -8,6 +8,7 @@ This miner supports only x16r algorithm
 
 http://starpool.fun - Raven Mining Pool
 
-thank to ThrDev
+
+Based on ThrDev uiccminer
 BTC Donation Address (ThrDev): 1ic2WAQtdckJ5vWBjqgg6PnocnNs2kiqj
 
