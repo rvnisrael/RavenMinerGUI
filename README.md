@@ -8,9 +8,12 @@ If the box is checked, the GUI will only mine when your computer has been idle f
 
 ![alt text](http://rvn.co.il/images/minergui.jpg)
 
+
 This miner supports only x16r algorithm
 
 http://starpool.fun - Raven Mining Pool
+
+
 
 
 
